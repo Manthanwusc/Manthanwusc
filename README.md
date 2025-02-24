@@ -2,7 +2,8 @@
 
 Intro 
 
-[**Link to Resume**](https://drive.google.com/file/d/1qZc9lEPMwXsUmo5MYUtgXDHuYZQvmuBf/view?usp=sharing){:target="_blank"}
+<a href="https://drive.google.com/file/d/1qZc9lEPMwXsUmo5MYUtgXDHuYZQvmuBf/view?usp=sharing" target="_blank">**Link to Resume**</a>
+
 
 ## Work Experience
 ### Delet
