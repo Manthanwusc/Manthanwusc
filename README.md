@@ -36,5 +36,7 @@ Intro
 
 
 <h4>Reach me at:</h4>
-<a href="https://www.linkedin.com/in/manthan-wattamwar/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/manthan-wattamwar/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" width="40" height="40"/>
+</a>
 <a href="mailto:wattamwa@usc.edu"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/></a>
