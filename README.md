@@ -1,8 +1,19 @@
-### Hi! I am Manthan Wattamwar
+<h1 align="center">Hello! I'm Manthan Wattamwar 👋</h1>
 
-Intro 
+I’m a Master’s student at USC, graduating in May 2025, passionate about building impactful solutions. Currently, I’m looking for full-time software roles where I can apply my skills in software development, full-stack engineering, machine learning, and cybersecurity.
 
-<a href="https://drive.google.com/file/d/1qZc9lEPMwXsUmo5MYUtgXDHuYZQvmuBf/view?usp=sharing" target="_blank">**Link to Resume**</a>
+Recently, I worked at Delet, where I developed a three-way conversational chatbot and a low-latency video streaming solution for apartment self-touring. My solution not only made it to production but also significantly reduced hardware costs. Before that, I spent a year at Cognizant Technology Solutions, managing authentication and authorization for clients using Okta SSO and automating tasks to improve efficiency
+
+Beyond work, I’ve always been drawn to challenging projects—whether it’s publishing machine learning research, winning hackathons and robotics competitions, or founding a drone and tech club focused on autonomous drones and embedded systems. I enjoy building full-stack applications, working with AI-driven solutions, and exploring new technologies.
+
+I’m also actively involved in leadership, having served as President and Treasurer of student organizations, where I helped organize large-scale hackathons and cultural events at USC. I thrive in fast-paced environments, love collaborating with teams, and believe in constant learning and adaptation.
+
+If you're working on something exciting or looking for someone who enjoys tackling complex problems, let's connect! 🚀
+
+<p align="center">
+  <img align="center" width="40" height="40" src="https://img.icons8.com/plasticine/40/resume.png" alt="resume"/>
+  <a href="https://drive.google.com/file/d/1qZc9lEPMwXsUmo5MYUtgXDHuYZQvmuBf/view?usp=sharing" target="_blank" style="margin-left: 10px;">Link to Resume</a>
+</p>
 
 
 ## Work Experience
@@ -42,4 +53,3 @@ Intro
 <a href="mailto:wattamwa@usc.edu" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/>
 </a>
-
