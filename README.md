@@ -2,7 +2,7 @@
 
 Intro 
 
-[Link to Resume](https://drive.google.com/file/d/1qZc9lEPMwXsUmo5MYUtgXDHuYZQvmuBf/view?usp=sharing)
+[**Link to Resume**](https://drive.google.com/file/d/1qZc9lEPMwXsUmo5MYUtgXDHuYZQvmuBf/view?usp=sharing){:target="_blank"}
 
 ## Work Experience
 ### Delet
